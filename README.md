@@ -4,7 +4,7 @@
 
 # **SPARTA RECOMP**
 
-God of War: Sons of Sparta (PS4) recompiled to run natively on Android, rather than through a full emulator.
+God of War: Sons of Sparta (PS4) recompiled to run natively on Android.
 
 Developed using **Orbs-sdk**, my SDK for recompiling PlayStation 4 and PlayStation 5 games.
 
